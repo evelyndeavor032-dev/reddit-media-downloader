@@ -1,0 +1,10 @@
+{
+  "parallel": 6,
+  "batch": 20,
+  "cookies": "Edge",
+  "browser": "Edge",
+  "max_posts": 400,
+  "max_scrolls": 80,
+  "scroll_interval": 6,
+  "driver_path": ""
+}
